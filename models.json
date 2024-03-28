@@ -6,8 +6,8 @@
     "name": "DeepSeek-67B",
     "provider_url": "https://huggingface.co/bigcode/starcoderbase-1b",
     "segmented_urls": [
-      "https://raw.githubusercontent.com/boxbeam/Crunch/master/src/redempt/crunch/token/LazyVariable.java",
-      "https://raw.githubusercontent.com/boxbeam/Crunch/master/src/redempt/crunch/token/LiteralValue.java"
+            "https://huggingface.co/TheBloke/openbuddy-deepseek-67b-v15-base-GGUF/resolve/main/openbuddy-deepseek-67b-v15-base.Q8_0.gguf-split-a",
+      "https://huggingface.co/TheBloke/openbuddy-deepseek-67b-v15-base-GGUF/resolve/main/openbuddy-deepseek-67b-v15-base.Q8_0.gguf-split-b"
     ],
     "sha256": "1bb6441486d102db03dac30c82d6b1029ee4f9f5d73f27444fa58cbfcd7cfa0f"
   },
